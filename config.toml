@@ -3,7 +3,7 @@ title = "Usman Akhtar "
 theme = "academic"
 
 post = "/:year/:month/:day/:slug"
-#baseURL = "https://usmanakhtar.github.io/username.github.io/"
+baseURL = "https://usmanakhtar.github.io/username.github.io/"
 
 copyright = "&copy; 2017 Usman Akhtar"
 
