@@ -4,7 +4,7 @@ theme = "academic"
 
 post = "/:year/:month/:day/:slug"
 URL = "https://usmanakhtar.github.io/username.github.io/"
-baseURL = "/"
+baseURL = "/username.github.io/"
 copyright = "&copy; 2017 Usman Akhtar"
 
 # Navigation Links
