@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Usman Akhtar "
-theme = "academic"
+#theme = "academic"
 
 post = "/:year/:month/:day/:slug"
 #URL = "https://usmanakhtar.github.io/username.github.io/"
